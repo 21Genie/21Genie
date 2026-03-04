@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi, I’m @oborin666
+
 👨‍💻 I’m Frontend developer (React)
+
 📫 How to reach me @oborin666 in <3 telegram

@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I’m Daniel
 - 👨‍💻 I’m Frontend developer (React)
-- 📫 How to reach me @oborin666 in <3 telegram
+- 📫 How to reach me @el_greco8 in <3 telegram
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1200&width=435&lines=Holly+JS)](https://git.io/typing-svg)

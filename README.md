@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 👨‍💻 I’m Frontend developer (React)
 
 📫 How to reach me @oborin666 in <3 telegram
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Holly+JS)](https://git.io/typing-svg)
